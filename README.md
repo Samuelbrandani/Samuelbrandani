@@ -7,3 +7,19 @@
 
 ### About me
 I'm a {backend, frontend and mobile} developer and studente on Univas - Pouso Alegre!
+
+## Technologies
+- Flutter
+- Angular 2+
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- MySql
+- Knowledge of UI and UX
+
+## Hobbies
+- Graphic Design
+- Photoshop
+- Illustrator
