@@ -5,7 +5,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/samuel_brandani)](https://twitter.com/samuel_brandani)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChAldsS6UvIK0pI5yBsCHig)](https://www.youtube.com/channel/UChAldsS6UvIK0pI5yBsCHig)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 ### About me
 I'm a {backend, frontend and mobile} developer and studente on Univas - Pouso Alegre!
