@@ -6,7 +6,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChAldsS6UvIK0pI5yBsCHig)](https://www.youtube.com/channel/UChAldsS6UvIK0pI5yBsCHig)
 
 ### About me
-I'm a {backend, frontend and mobile} developer and studente on Univas - Pouso Alegre!
+I'm a Full Stack Developer and student on Univas - Pouso Alegre!
 
 ## Technologies
 - Flutter
