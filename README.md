@@ -6,8 +6,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="flutter" height="60" width="60" src="imgs/flutter-original.svg">
-  <img align="center" alt="dart" height="60" width="60" src="imgs/dart-original-wordmark.svg">
-  <img align="center" alt="angularjs" height="60" width="60" src="imgs/angularjs-original-wordmark.svg">
+  <img align="center" alt="dart" height="60" width="60" src="imgs/dart-original.svg">
+  <img align="center" alt="angularjs" height="60" width="60" src="imgs/angularjs-original.svg">
   <img align="center" alt="php" height="60" width="60" src="imgs/php-original.svg">
   <img align="center" alt="javascript" height="60" width="60" src="imgs/javascript-original.svg">
   <img align="center" alt="typescript" height="60" width="60" src="imgs/typescript-original.svg">
