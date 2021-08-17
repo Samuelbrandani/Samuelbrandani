@@ -5,8 +5,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelbrandani&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="dart" height="30" width="40" src="imgs/dart-original-wordmark.svg">
-
+  <img align="center" alt="flutter" height="90" width="120" src="imgs/flutter-original.svg">
+  <img align="center" alt="dart" height="90" width="120" src="imgs/dart-original-wordmark.svg">
+  <img align="center" alt="angularjs" height="90" width="120" src="imgs/angularjs-original-wordmark.svg">
+  <img align="center" alt="php" height="90" width="120" src="imgs/php-original.svg">
+  <img align="center" alt="javascript" height="90" width="120" src="imgs/javascript-original.svg">
+  <img align="center" alt="typescript" height="90" width="120" src="imgs/typescript-original.svg">
+  <img align="center" alt="git" height="90" width="120" src="imgs/git-original.svg">
+  <img align="center" alt="css3" height="90" width="120" src="imgs/css3-original.svg">
+  <img align="center" alt="mysql" height="90" width="120" src="imgs/mysql-original-wordmark.svg">
+  <img align="center" alt="c" height="90" width="120" src="imgs/c-original.svg">
+  <img align="center" alt="ionic" height="90" width="120" src="imgs/ionic-original.svg">
 </div>
   
   ##
