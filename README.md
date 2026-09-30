@@ -1,91 +1,36 @@
-<h1 align="center">Olá, eu sou o Samuel 👋</h1>
+<a href="https://github.com/Samuelbrandani">
+  <img src="./assets/hero.svg" width="100%" alt="Samuel Brandani. Construo software para quem constrói. CTO e co-fundador da Obra Controle." />
+</a>
 
 <p align="center">
-  <a href="https://github.com/Samuelbrandani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CTO+%26+Co-founder+%40+Obra+Controle;Full-stack+Developer+%7C+Flutter+%E2%80%A2+React+%E2%80%A2+Supabase;Construindo+agentes+de+IA+sob+medida+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-13406B?style=for-the-badge&logo=linkedin&logoColor=F5B700" /></a>
+  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-13406B?style=for-the-badge&logo=gmail&logoColor=F5B700" /></a>
+  <a href="https://github.com/Samuelbrandani/skills"><img src="https://img.shields.io/badge/Skills_open_source-13406B?style=for-the-badge&logo=github&logoColor=F5B700" /></a>
 </p>
+
+<br/>
+
+<img src="./assets/memorial.svg" width="100%" alt="Memorial descritivo: Supabase e PostgreSQL na fundação, Go e Hono na estrutura, Flutter e React no acabamento, Docker nas instalações e agentes de IA na automação." />
+
+<br/><br/>
+
+<a href="https://github.com/Samuelbrandani/skills">
+  <img src="./assets/detalhe-figma-flutter.svg" width="100%" alt="Detalhe A: figma-flutter, skill open source que transforma telas do Figma em código Flutter." />
+</a>
+
+<br/><br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Samuelbrandani&style=for-the-badge&color=38BDF8&label=VISITAS" />
-</p>
-
----
-
-### 🚀 Sobre mim
-
-- 🏗️ **CTO e co-founder** da **Obra Controle**, um SaaS de gestão de obras para a construção civil
-- 💻 Toco a **Brandani Tech**, consultoria de desenvolvimento full-stack
-- 🤖 Ultimamente construindo **agentes de IA sob medida** que automatizam processos repetitivos dentro das empresas
-- 📱 Apps mobile em **Flutter**, backends em **TypeScript (Hono)** e **Go**, tudo em cima de **Supabase**
-- 🎓 Bacharel em Sistemas de Informação
-- 📍 São Paulo, Brasil
-
-```ts
-const samuel = {
-  role: ["CTO @ Obra Controle", "Founder @ Brandani Tech"],
-  stack: {
-    mobile: ["Flutter", "Dart"],
-    frontend: ["React", "TypeScript"],
-    backend: ["Hono", "Go", "Supabase Edge Functions"],
-    database: ["PostgreSQL", "Supabase (RLS, PostgREST, pg_cron)"],
-    infra: ["Docker", "VPS", "GitHub Actions"],
-    ai: ["Claude", "Agentes de IA", "Claude Code + Skills"],
-  },
-  focus: "transformar processo manual em software que roda sozinho",
-  currentlyBuilding: "agentes de IA para empresas",
-};
-```
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,go,nodejs,supabase,postgres,docker,git,github,vscode,figma,apple,androidstudio&perline=8" />
-</p>
-
----
-
-### ⭐ Destaque
-
-<table>
-  <tr>
-    <td>
-      <h4>🎨 <a href="https://github.com/Samuelbrandani/skills">figma-flutter</a></h4>
-      Skill open source para agentes de IA que transforma designs do <b>Figma</b> em código <b>Flutter</b> pronto para produção.
-      <br/><br/>
-      <a href="https://github.com/Samuelbrandani/skills"><img src="https://img.shields.io/badge/ver_repositório-181717?style=flat-square&logo=github" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samuelbrandani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelbrandani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samuelbrandani&show_icons=true&count_private=true&hide_border=true&bg_color=13406B&title_color=F5B700&text_color=E8F1F8&icon_color=7FC8F8&ring_color=F5B700&custom_title=Medi%C3%A7%C3%A3o%20da%20obra&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelbrandani&layout=compact&langs_count=8&hide_border=true&bg_color=13406B&title_color=F5B700&text_color=E8F1F8&custom_title=Materiais%20mais%20usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samuelbrandani&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Samuelbrandani&locale=pt_BR&hide_border=true&background=13406B&ring=F5B700&fire=F5B700&currStreakNum=E8F1F8&sideNums=E8F1F8&currStreakLabel=F5B700&sideLabels=7FC8F8&dates=7FC8F8&stroke=7FC8F844" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuelbrandani&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/Samuelbrandani/Samuelbrandani/output/escavadeira.svg" width="100%" alt="Contribuições do GitHub sendo escavadas" />
 </p>
 
----
-
-### 🤝 Bora conversar?
-
-Se você tem um processo que toma horas da sua equipe toda semana, provavelmente dá pra automatizar.
-Me chama no [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) e vamos trocar uma ideia. 🚀
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=100&section=footer" />
-</p>
+<img src="./assets/fita.svg" width="100%" alt="Obra em andamento" />
